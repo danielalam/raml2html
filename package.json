@@ -15,7 +15,8 @@
     "marked": "0.3.x",
     "minimize": "0.8.x",
     "raml2obj": "1.0.x",
-    "underscore": "^1.8.2"
+    "underscore": "^1.8.2",
+    "raml-parser": "git+ssh://git@github.com:danielalam/raml-js-parser.git#raml-1.0"
   },
   "homepage": "https://github.com/kevinrenskers/raml2html",
   "keywords": [
